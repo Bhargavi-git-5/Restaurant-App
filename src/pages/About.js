@@ -26,7 +26,7 @@ const About = () => {
           },
         }}
       >
-        <Typography variant="h4">Welcome To My Resturant</Typography>
+        <Typography variant="h4">Welcome To SIGA HomeMade Foods</Typography>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat quod,
           suscipit, aperiam totam autem culpa cum eveniet dolorum quasi est

@@ -19,7 +19,7 @@ const Contact = () => {
   return (
     <Layout>
       <Box sx={{ my: 5, ml: 10, "& h4": { fontWeight: "bold", mb: 2 } }}>
-        <Typography variant="h4">Contact My Resturant</Typography>
+        <Typography variant="h4">Contact SIGA HomeMade Foods</Typography>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem odio
           beatae ducimus magni nobis culpa praesentium velit expedita quae,
@@ -58,7 +58,7 @@ const Contact = () => {
               </TableRow>
               <TableRow>
                 <TableCell>
-                  <MailIcon sx={{ color: "skyblue", pt: 1 }} /> help@myrest.com
+                  <MailIcon sx={{ color: "skyblue", pt: 1 }} /> sigaHomeMadeFoods@gmail.com
                 </TableCell>
               </TableRow>
               <TableRow>
