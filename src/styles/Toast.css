@@ -1,0 +1,43 @@
+.toast:hover {
+    box-shadow: hsla(342, 83%, 45%, 0.1) 0px 1px 3px, hsla(0, 73%, 44%, 0.25) 0px 1px 2px;
+  }
+  .toast{
+    background-color: aqua !important;
+  }
+  
+  .custom-toast {
+    background-color: greenyellow;
+    color: #ccc;
+    border-radius: 0.5em;
+    padding: 1em 1.25em;
+    max-width: 300px;
+    width: 100%;
+  }
+  
+  .custom-toast-btn-close {
+    border: 0;
+    padding: 0.3em 0.5em;
+    border-radius: 0.25em;
+    background-color: #444;
+  }
+  
+  .custom-toast-btn-close:hover,
+  .custom-toast-btn-close:focus {
+    background-color: #555;
+  }
+  
+  .custom-toast-header,
+  .custom-toast-body {
+    padding: 0.5em 1em;
+  }
+  
+  .custom-toast-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+  
+  .custom-toast-header + .custom-toast-body {
+    border-top: 1px solid #555;
+  }
+  

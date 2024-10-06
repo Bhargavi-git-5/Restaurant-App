@@ -25,6 +25,12 @@ const Contact = () => {
           beatae ducimus magni nobis culpa praesentium velit expedita quae,
           corrupti, pariatur inventore laboriosam consectetur modi impedit
           error, repudiandae obcaecati doloribus.
+        </p><br></br>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem odio
+          beatae ducimus magni nobis culpa praesentium velit expedita quae,
+          corrupti, pariatur inventore laboriosam consectetur modi impedit
+          error, repudiandae obcaecati doloribus.
         </p>
       </Box>
       <Box

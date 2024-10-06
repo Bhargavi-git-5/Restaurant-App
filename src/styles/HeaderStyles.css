@@ -18,6 +18,7 @@
 /* mobile view */
 .mobile-navigation {
   list-style: none;
+  text-align: left;
 }
 .mobile-navigation li {
   margin-top: 20px;
