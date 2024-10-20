@@ -23,7 +23,9 @@ function App() {
               <Cart />
             {/* <CartTable /> */}
             </CartProvider>} />
-          
+            <Route path="/cartTable" element={
+               <CartProvider>
+                <CartTable /></CartProvider>}/>
           <Route path="*" element={<Pagenotfound />} />
         </Routes>
       </BrowserRouter>
